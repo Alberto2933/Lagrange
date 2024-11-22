@@ -4,7 +4,7 @@ title: "La historia del LOL!"
 author: "Alberto Camacho "
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: 1366_2000.jpg
 ---
 # Historia de League of Legends
 
