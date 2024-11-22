@@ -1,42 +1,81 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "La historia del LOL!"
+author: "Alberto Camacho "
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
+# Historia de League of Legends
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+League of Legends (LoL) es un videojuego multijugador de arena de batalla en línea (MOBA) desarrollado y publicado por **Riot Games**. Desde su lanzamiento en 2009, se ha convertido en uno de los juegos más populares y exitosos del mundo. A continuación, exploraremos su historia y evolución.
 
-## Getting Started
+---
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+## Orígenes
 
-## Example Content
+El desarrollo de League of Legends comenzó en 2006, cuando dos ex empleados de **Blizzard Entertainment**, **Brandon Beck** y **Marc Merrill**, fundaron Riot Games. Inspirados por el mod **Defense of the Ancients (DotA)** de Warcraft III, buscaron crear un juego independiente basado en las mecánicas de este popular mod.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+- **2008**: Riot Games anunció oficialmente League of Legends como un proyecto.
+- **27 de octubre de 2009**: LoL fue lanzado al público como un juego gratuito con un modelo de negocio basado en microtransacciones.
 
-## Questions?
+---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+## Características Clave
 
-## More Jekyll!
+- **Modo de Juego Principal**: Dos equipos de cinco jugadores compiten en el mapa **La Grieta del Invocador**, con el objetivo de destruir el nexo enemigo.
+- **Campeones**: Desde su lanzamiento, el juego ha ampliado su lista inicial de 40 campeones a más de 160 personajes únicos en 2024.
+- **Modelo Free-to-Play**: El juego es gratuito, pero ofrece contenido cosmético y pases de batalla que los jugadores pueden adquirir.
 
-### Millennial
+---
 
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
+## Expansión y Éxito Global
 
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
+Con el tiempo, League of Legends se convirtió en un fenómeno global, gracias a su enfoque competitivo y constante evolución.
 
-### Portfolio Jekyll Theme
+- **2010**: Comenzaron los torneos locales y las primeras competiciones de eSports.
+- **2011**: Se celebró el primer Campeonato Mundial de LoL en DreamHack, Suecia. El equipo europeo **Fnatic** fue el campeón inaugural.
+- **2012**: Riot organizó el segundo Mundial, con un premio acumulado de 2 millones de dólares.
+- **2018**: League of Legends alcanzó 100 millones de jugadores activos mensuales.
+- **2020**: Riot lanzó **Wild Rift**, una versión del juego adaptada para dispositivos móviles y consolas.
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+---
 
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
+## Impacto en los eSports
 
-### Jekyll Starter Kit
+League of Legends ha sido fundamental para el desarrollo de los eSports, con eventos como:
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+- **Campeonato Mundial de LoL**: Un evento anual que reúne a los mejores equipos de todo el mundo. La final del Mundial de 2019 tuvo más de 100 millones de espectadores.
+- **Ligas Regionales**: Como la **LCK** (Corea), **LEC** (Europa) y **LCS** (América del Norte), que impulsan la escena competitiva durante todo el año.
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+---
+
+## Universo Expandido
+
+Riot Games ha expandido el universo de LoL con nuevos proyectos:
+
+- **Runeterra**: El universo ficticio donde ocurre la historia del juego. Riot ha desarrollado un lore detallado sobre los campeones y sus regiones.
+- **Arcane (2021)**: Una serie animada de Netflix que explora las historias de los campeones Jinx y Vi. Ganó múltiples premios y elogios de la crítica.
+- **Otros Juegos**:
+  - **Legends of Runeterra** (2020): Un juego de cartas basado en los personajes de LoL.
+  - **Teamfight Tactics** (2019): Un juego de estrategia automática.
+  - **Riot Forge**: Una iniciativa para desarrollar juegos narrativos, como **Ruined King**.
+
+---
+
+## El Futuro de League of Legends
+
+League of Legends sigue evolucionando con actualizaciones regulares, nuevos campeones y una escena competitiva robusta. Riot Games continúa innovando, asegurándose de que LoL mantenga su posición como líder en los juegos MOBA y eSports.
+
+---
+
+### Referencias
+
+1. [Página oficial de League of Legends](https://www.leagueoflegends.com)
+2. [Historial del Campeonato Mundial](https://lol.fandom.com/wiki/World_Championship)
+3. [Serie animada Arcane en Netflix](https://www.netflix.com)
+
+---
+
+> League of Legends no es solo un juego; es una comunidad, una pasión y una cultura global que conecta a millones de personas.
+
